@@ -4,40 +4,21 @@
 **Semester:** _ONE_                               
 **Academic Year:** _2025/2026_
 
-##  Raw Grades
------------------------------------
-| Coursework         |Score (100%)|
-|--------------------|------------|
-| Class Participation|            |
-| Assignment 0       |            |
-| Assignment 1       |            |
-| Assignment 2       |            |
-| Assignment 3       |            |
-| Test I             |            |
-| Assignment 4       |            |
-| Assignment 5       |            |
-| Test II            |            |
-| Assignment 6       |            |
------------------------------------
-
-
-
-
 ##  Grade Summary
 
 
 
 | Coursework         |  Weight | Score (%) | Weighted Score |
 |--------------------|---------|-----------|----------------|
-| Class Participation|  10%    |           |                |
-| Assignment 0       |   4%    |           |                |
-| Assignment 1       |   6%    |           |                |
-| Quiz 1             |   4%    |           |                |
-| Assignment 2       |  10%    |      74.0 |                |
+| Class Participation|  10%    |       2.0 |                |
+| Assignment 0       |   4%    |     100.0 |                |
+| Assignment 1       |   6%    |      70.2 |                |
+| Quiz 1             |   4%    |      90.0 |                |
+| Assignment 2       |  10%    |       74  |                |
 | Assignment 3       |  12%    |           |                |
-| Test I             |   6%    |           |                |
+| Test I             |   6%    |      44.0 |                |
 | Assignment 4       |  13%    |           |                |
 | Assignment 5       |  14%    |           |                |
 | Test II            |   6%    |           |                |
 | Assignment 6       |  15%    |           |                |
-| **Total**          | **100%**|  **24.67**|   **14.80/60** |
+| **Total**          | **100%**|  **72.26**|   **43.36/60** |
